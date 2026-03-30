@@ -28,8 +28,8 @@ The project follows the design style of Frontend Mentor challenges, with attenti
 
 ## Screenshot
 
-![Desktop Screenshot](./assets/screenshots/screenshot-desktop.png)  
-![Mobile Screenshot](./assets/screenshots/screenshot-mobile.png)  
+![Desktop Screenshot](./assets/screenshots/desktop-screenshot.png)  
+![Mobile Screenshot](./assets/screenshots/mobile-screenshot.png)  
 
 *(Replace these with screenshots from your project.)*
 

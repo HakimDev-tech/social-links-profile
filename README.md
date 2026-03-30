@@ -89,3 +89,4 @@ The project follows the design style of Frontend Mentor challenges, with attenti
 
 Challenge by [Frontend Mentor](https://www.frontendmentor.io)  
 Coded by Abdel Hakim Koumad
+**Note:** For this project, the social media links are placeholders (`#`) to protect privacy and prevent spam. You can replace them with your actual accounts if you publish the project. The project is hosted on GitHub, which allows you to share the source code and a live version easily.
